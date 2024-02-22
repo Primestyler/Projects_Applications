@@ -1,0 +1,44 @@
+body{
+    background-color:beige;
+    border-bottom: 3px,solid, rgb(32, 14, 105);
+
+}
+h1{
+    background-color:bisque;
+    color: brown;
+}
+#p1{
+    color: tomato;
+}
+#p2{
+    color: brown;
+    
+}
+title{
+    color: hwb(0 16% 35%);
+}
+h1{
+    font-family: verdana, arial;
+    border:5px,solid,rgba(205, 135, 15, 0.899);
+    border-radius: 20px;
+    text-shadow: 3px 3px 5px rgb(7, 211, 167);
+}
+#p1{
+    font-family: "lucida console","courier new";
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.box{
+    border: 5px solid;
+    font-size: 5em;
+    width: 250px;
+    height: 250 px;
+    background-color: rgb(186, 184, 188);
+    
+}
+#box1{
+    background-color: rgba(165, 99, 42, 0.729);
+    margin: auto;
+}
