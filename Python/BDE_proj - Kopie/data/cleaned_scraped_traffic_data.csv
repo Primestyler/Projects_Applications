@@ -1,0 +1,386 @@
+World Rank,City,Average Traveltime per 10 km,Change From 2022,Congestion level in %,Time lost per year (in hours),Average speed (in km/h)
+1,London,37 min 20 s,+ 1 min,45,148,14
+2,Dublin,29 min 30 s,+ 1 min,66,158,16
+3,Toronto,29 min,+ 50 s,42,98,18
+4,Milan,28 min 50 s,+ 20 s,45,137,17
+5,Lima,28 min 30 s,+ 1 min 20 s,61,157,17
+6,Bengaluru,28 min 10 s,- 1 min,63,132,18
+7,Pune,27 min 50 s,+ 30 s,57,128,19
+8,Bucharest,27 min 40 s,+ 20 s,55,150,17
+9,Manila,27 min 20 s,+ 20 s,46,105,19
+10,Brussels,27 min,+ 20 s,37,104,18
+11,Taichung,26 min 50 s,- 10 s,35,71,20
+12,Rome,26 min 30 s,+ 40 s,41,107,19
+13,Mexico City,26 min 30 s,+ 50 s,63,152,18
+14,Sapporo,26 min 30 s,- 1 min 10 s,34,75,20
+15,Bordeaux,26 min 30 s,+ 20 s,43,111,18
+16,Paris,26 min 30 s,+ 20 s,46,120,18
+17,Kaohsiung,26 min,+ 20 s,32,68,21
+18,Turin,25 min 40 s,+ 40 s,31,92,20
+19,Bogota,25 min 30 s,- 50 s,50,117,20
+20,New York,24 min 50 s,+ 20 s,43,112,20
+21,Wroclaw,24 min 40 s,+ 10 s,49,107,20
+22,Geneva,24 min 40 s,+ 20 s,38,91,20
+23,Buenos Aires,24 min 30 s,- 10 s,39,88,22
+24,Messina,24 min 30 s,+ 10 s,34,79,21
+25,Nagoya,24 min 20 s,no change,34,55,23
+26,Hamburg,23 min 50 s,+ 30 s,36,74,22
+27,Tokyo,23 min 40 s,- 10 s,35,76,21
+28,Zurich,23 min 30 s,+ 1 min 50 s,38,88,21
+29,Manchester,23 min 30 s,+ 20 s,37,88,21
+30,Jakarta,23 min 20 s,+ 40 s,53,117,21
+31,Athens,23 min 10 s,+ 10 s,49,112,20
+32,Vancouver,23 min 10 s,+ 30 s,46,90,22
+33,Sao Paulo,23 min,+ 50 s,48,105,21
+34,Liverpool,22 min 50 s,+ 30 s,37,75,22
+35,Bristol,22 min 40 s,+ 10 s,40,89,21
+36,Recife,22 min 40 s,- 10 s,51,116,21
+37,Montevideo,22 min 20 s,- 40 s,26,55,25
+38,Curitiba,22 min 20 s,+ 20 s,37,94,22
+39,Lodz,22 min 10 s,- 10 s,52,94,22
+40,Tainan,22 min 10 s,no change,33,59,25
+41,Belo Horizonte,22 min 10 s,+ 10 s,45,109,21
+42,Berlin,22 min,- 10 s,32,64,24
+43,Taipei,21 min 50 s,+ 10 s,37,79,23
+44,New Delhi,21 min 40 s,- 30 s,48,81,24
+45,Luxembourg,21 min 40 s,+ 30 s,36,79,23
+46,Bangkok,21 min 40 s,+ 1 min,62,108,23
+47,Sydney,21 min 30 s,- 20 s,36,83,23
+48,Vienna,21 min 30 s,- 30 s,31,64,24
+49,Helsinki,21 min 30 s,+ 10 s,34,62,25
+50,Edinburgh,21 min 30 s,no change,43,74,24
+51,Krakow,21 min 30 s,- 10 s,50,97,23
+52,Funchal,21 min 30 s,+ 10 s,24,71,23
+53,Leipzig,21 min 30 s,+ 10 s,32,65,24
+54,Mumbai,21 min 20 s,+ 10 s,43,92,23
+55,Washington,21 min 20 s,+ 10 s,36,86,23
+56,Osaka,21 min 20 s,+ 10 s,35,58,25
+57,Fortaleza,21 min 10 s,- 20 s,39,92,23
+58,Budapest,21 min 10 s,- 30 s,43,85,23
+59,Vitoria-Gasteiz,21 min,- 10 s,26,48,27
+60,Florence,21 min,+ 20 s,35,83,23
+61,Lyon,20 min 50 s,+ 10 s,37,89,23
+62,Gaziantep,20 min 50 s,- 20 s,28,65,26
+63,Melbourne,20 min 50 s,+ 20 s,42,92,23
+64,Sofia,20 min 50 s,+ 30 s,38,90,23
+65,Istanbul,20 min 40 s,- 20 s,53,104,23
+66,Porto Alegre,20 min 40 s,+ 20 s,44,100,23
+67,Sheffield,20 min 40 s,+ 20 s,38,76,24
+68,Frankfurt am Main,20 min 40 s,- 50 s,28,52,26
+69,Munich,20 min 30 s,+ 20 s,33,72,24
+70,Graz,20 min 30 s,+ 20 s,30,57,26
+71,San Francisco,20 min 30 s,no change,38,75,25
+72,Riga,20 min 20 s,+ 40 s,39,90,23
+73,Szczecin,20 min 20 s,+ 10 s,36,68,25
+74,Cairo,20 min 20 s,- 1 min,40,72,26
+75,Warsaw,20 min 20 s,+ 20 s,43,96,23
+76,Cologne,20 min 10 s,+ 10 s,28,53,27
+77,Palermo,20 min,- 10 s,44,88,25
+78,Kassel,20 min,+ 30 s,32,57,27
+79,Lausanne,20 min,- 10 s,30,63,25
+80,Leicester,20 min,+ 30 s,37,79,25
+81,Gijon,19 min 50 s,- 10 s,19,38,28
+82,Dresden,19 min 50 s,no change,29,57,27
+83,Wiesbaden,19 min 50 s,+ 20 s,39,71,25
+84,Nottingham,19 min 50 s,+ 10 s,33,69,25
+85,Thessaloniki,19 min 40 s,- 10 s,32,51,28
+86,The Hague,19 min 30 s,no change,39,72,27
+87,Bydgoszcz,19 min 20 s,+ 30 s,39,77,26
+88,Stuttgart,19 min 20 s,+ 20 s,27,54,27
+89,Alicante,19 min 20 s,+ 30 s,23,41,29
+90,Santiago,19 min 20 s,- 40 s,43,93,24
+91,Adelaide,19 min 20 s,+ 10 s,35,72,26
+92,Lugano,19 min 20 s,+ 30 s,35,82,25
+93,Winnipeg,19 min 20 s,+ 10 s,28,63,26
+94,Aachen,19 min 10 s,+ 40 s,33,54,28
+95,Christchurch,19 min 10 s,+ 40 s,33,69,26
+96,Nancy,19 min 10 s,+ 10 s,25,55,27
+97,Boston,19 min 10 s,+ 20 s,41,86,25
+98,Utrecht,19 min 10 s,+ 20 s,37,70,27
+99,Barcelona,19 min,- 10 s,29,59,27
+100,Salzburg,19 min,- 10 s,34,52,28
+101,Zaragoza,19 min,no change,19,33,30
+102,Catania,19 min,+ 10 s,40,80,26
+103,Montreal,19 min,+ 10 s,38,85,25
+104,Hannover,18 min 50 s,+ 50 s,31,57,28
+105,Poznan,18 min 50 s,no change,46,72,27
+106,Tallinn,18 min 50 s,+ 30 s,39,72,26
+107,Rio de Janeiro,18 min 50 s,+ 20 s,51,81,27
+108,Cardiff,18 min 40 s,+ 20 s,36,61,28
+109,Dusseldorf,18 min 40 s,+ 10 s,30,53,28
+110,Ankara,18 min 40 s,+ 10 s,46,96,25
+111,Bournemouth,18 min 30 s,+ 20 s,34,63,27
+112,Leeds-Bradford,18 min 30 s,+ 30 s,28,56,27
+113,Nuremberg,18 min 30 s,+ 10 s,31,53,29
+114,Reading,18 min 30 s,+ 20 s,32,61,27
+115,Monchengladbach,18 min 30 s,+ 10 s,22,35,31
+116,Izmir,18 min 30 s,+ 30 s,39,88,26
+117,Wellington,18 min 20 s,no change,28,58,27
+118,Hull,18 min 20 s,+ 20 s,40,71,27
+119,Nice,18 min 10 s,- 20 s,29,57,28
+120,Leuven,18 min 10 s,+ 40 s,26,61,28
+121,Clermont-Ferrand,18 min 10 s,+ 20 s,31,60,28
+122,Brighton and Hove,18 min,no change,36,55,29
+123,Antalya,18 min,+ 30 s,36,81,26
+124,Madrid,18 min,no change,25,51,29
+125,Swansea,18 min,+ 20 s,34,56,29
+126,Vilnius,17 min 50 s,+ 10 s,39,81,26
+127,Reggio Calabria,17 min 50 s,- 20 s,29,56,30
+128,Chicago,17 min 50 s,- 10 s,38,86,26
+129,Munster,17 min 50 s,- 1 min 10 s,27,44,31
+130,Vigo,17 min 50 s,- 20 s,19,34,32
+131,Nijmegen,17 min 50 s,+ 10 s,29,60,29
+132,Mersin,17 min 40 s,- 20 s,26,44,31
+133,Naples,17 min 40 s,+ 10 s,41,79,27
+134,Hong Kong,17 min 40 s,- 20 s,34,57,29
+135,Baltimore,17 min 40 s,+ 20 s,22,40,30
+136,Genoa,17 min 40 s,no change,28,55,29
+137,Riyadh,17 min 40 s,+ 1 min 20 s,45,87,26
+138,Basel,17 min 30 s,+ 40 s,31,60,29
+139,Lisbon,17 min 30 s,+ 30 s,32,65,27
+140,Marseille,17 min 30 s,- 20 s,34,68,28
+141,Brisbane,17 min 30 s,+ 20 s,31,68,27
+143,Seville,17 min 20 s,- 10 s,24,48,29
+144,Preston,17 min 20 s,+ 10 s,31,53,30
+145,Adana,17 min 20 s,- 10 s,33,61,29
+146,Southampton,17 min 20 s,+ 10 s,34,57,29
+147,Liege,17 min 20 s,+ 20 s,28,54,29
+148,Montpellier,17 min 20 s,no change,35,73,27
+149,Rouen,17 min 20 s,+ 20 s,27,60,28
+150,Mannheim,17 min 20 s,- 20 s,27,39,32
+151,Amsterdam,17 min 10 s,- 10 s,37,55,31
+152,Murcia,17 min 10 s,+ 30 s,24,50,30
+153,Grenoble,17 min 10 s,- 10 s,34,77,27
+154,Valladolid,17 min 10 s,no change,16,31,33
+155,Valencia,17 min 10 s,no change,24,43,31
+156,Aarhus,17 min 10 s,no change,26,51,30
+157,Antwerp,17 min,+ 10 s,34,68,29
+158,Apeldoorn,17 min,no change,32,53,32
+159,Salvador,17 min,- 20 s,38,67,29
+160,Copenhagen,17 min,+ 10 s,26,58,29
+161,Dunedin,17 min,+ 10 s,22,35,32
+162,Belfast,17 min,+ 30 s,45,75,28
+163,Konya,16 min 50 s,no change,22,53,31
+164,Newcastle-Sunderland,16 min 50 s,+ 10 s,31,55,30
+165,Bursa,16 min 50 s,+ 20 s,35,72,29
+166,Prague,16 min 50 s,+ 30 s,36,66,29
+167,Orleans,16 min 50 s,no change,26,54,30
+168,Uppsala,16 min 50 s,+ 10 s,21,42,32
+169,Kuala Lumpur,16 min 50 s,+ 40 s,43,81,28
+170,Singapore,16 min 50 s,+ 10 s,38,65,29
+171,Halifax,16 min 40 s,+ 40 s,29,55,30
+172,Haarlem,16 min 40 s,+ 10 s,33,54,32
+173,Kobe,16 min 40 s,- 10 s,25,37,33
+174,Cartagena,16 min 40 s,- 10 s,18,29,34
+175,Lublin,16 min 30 s,+ 10 s,46,66,31
+176,Auckland,16 min 30 s,+ 1 min,36,81,27
+177,Oviedo,16 min 30 s,no change,21,34,34
+178,Bremen,16 min 30 s,+ 20 s,29,44,32
+179,Newcastle,16 min 30 s,no change,29,51,32
+180,Glasgow,16 min 20 s,- 10 s,33,59,30
+181,"Gdansk, Gdynia and Sopot",16 min 20 s,+ 30 s,34,65,29
+182,Tilburg,16 min 20 s,no change,27,46,33
+183,Malaga,16 min 20 s,no change,25,44,32
+184,Birmingham-Wolverhampton,16 min 20 s,+ 20 s,34,65,29
+185,Mons,16 min 20 s,+ 30 s,23,48,31
+186,Turku,16 min 20 s,no change,22,34,34
+187,Bern,16 min 10 s,no change,26,53,31
+188,Cordoba,16 min 10 s,+ 10 s,18,35,34
+189,Hobart,16 min 10 s,no change,29,52,31
+190,Freiburg,16 min 10 s,no change,24,39,34
+191,Namur,16 min 10 s,+ 20 s,27,49,32
+192,Bielefeld,16 min 10 s,- 10 s,23,35,34
+193,Pamplona,16 min 10 s,- 20 s,17,28,35
+194,Nantes,16 min 10 s,- 10 s,32,72,28
+195,Breda,16 min 10 s,no change,30,53,32
+196,Pretoria,16 min,no change,28,49,32
+197,Reims,16 min,no change,22,36,33
+198,Palma de Mallorca,16 min,+ 10 s,30,53,31
+199,Toulon,16 min,+ 20 s,29,58,30
+200,Edmonton,16 min,+ 10 s,22,39,33
+201,Tampere,16 min,- 10 s,21,31,35
+202,Limerick,15 min 50 s,+ 10 s,42,51,33
+203,Ghent,15 min 50 s,+ 20 s,26,46,33
+204,Porto,15 min 50 s,+ 20 s,38,74,28
+205,Cape Town,15 min 50 s,+ 20 s,32,49,33
+206,Seattle,15 min 50 s,+ 20 s,34,55,32
+207,Malmo,15 min 50 s,no change,17,30,35
+208,Brest,15 min 50 s,+ 20 s,27,47,32
+209,Leiden,15 min 40 s,- 10 s,29,52,33
+210,Taoyuan,15 min 40 s,+ 20 s,39,64,31
+211,Coventry,15 min 40 s,- 10 s,24,41,33
+212,Cork,15 min 40 s,no change,40,57,31
+213,Innsbruck,15 min 40 s,no change,22,30,36
+214,Kayseri,15 min 40 s,- 10 s,21,43,35
+215,Bonn,15 min 40 s,+ 1 min 30 s,28,47,33
+216,Bialystok,15 min 40 s,+ 10 s,28,43,34
+217,Philadelphia,15 min 40 s,+ 10 s,27,54,32
+218,Hamilton,15 min 30 s,- 50 s,26,46,33
+219,Stockholm,15 min 30 s,- 10 s,29,57,31
+221,Tours,15 min 20 s,no change,23,42,33
+222,Strasbourg,15 min 20 s,- 20 s,26,49,33
+223,Toulouse,15 min 10 s,+ 10 s,32,71,29
+224,Avignon,15 min 10 s,no change,28,53,32
+225,Perth,15 min 10 s,+ 40 s,30,60,31
+226,Rotterdam,15 min 10 s,no change,34,58,33
+227,Pescara,15 min 10 s,+ 20 s,22,42,35
+228,Oslo,15 min 10 s,- 10 s,22,54,31
+229,Brno,15 min,+ 40 s,36,58,32
+230,Kortrijk,15 min,+ 50 s,23,39,35
+231,Ottawa,15 min,+ 50 s,33,58,32
+232,Ruhr region west,15 min,+ 10 s,28,46,34
+233,Los Angeles,15 min,+ 30 s,53,89,29
+234,Miami,15 min,+ 30 s,41,66,32
+235,Prato,15 min,+ 10 s,29,54,33
+236,Honolulu,14 min 50 s,+ 30 s,33,67,31
+237,Ras Al Khaimah,14 min 50 s,no change,10,15,40
+238,Arnhem,14 min 50 s,no change,30,52,34
+239,Bloemfontein,14 min 50 s,+ 10 s,20,41,34
+240,Bergen,14 min 50 s,- 20 s,13,30,37
+241,Columbia,14 min 50 s,+ 20 s,23,34,37
+242,Le Havre,14 min 50 s,no change,23,40,36
+243,Durban,14 min 50 s,no change,29,44,35
+244,Bologna,14 min 50 s,+ 20 s,31,63,32
+245,Augsburg,14 min 40 s,+ 10 s,22,36,37
+246,Pittsburgh,14 min 40 s,+ 10 s,28,50,35
+247,Amersfoort,14 min 40 s,+ 10 s,25,42,36
+248,Trieste,14 min 40 s,no change,24,35,38
+249,Cagliari,14 min 30 s,+ 10 s,24,40,37
+250,Kiel,14 min 30 s,+ 30 s,24,31,38
+251,Linz,14 min 30 s,+ 10 s,21,36,36
+252,Verona,14 min 30 s,+ 10 s,28,48,35
+253,Stoke-on-Trent,14 min 30 s,+ 10 s,27,50,34
+254,Denver,14 min 30 s,+ 20 s,34,56,34
+255,Dijon,14 min 30 s,no change,25,42,36
+256,Le Mans,14 min 30 s,no change,24,40,36
+257,A Coruna,14 min 30 s,+ 20 s,17,31,38
+258,Abu Dhabi,14 min 30 s,no change,17,23,39
+259,Ljubljana,14 min 20 s,+ 40 s,29,51,35
+260,Livorno,14 min 20 s,+ 10 s,21,32,39
+261,Stavanger,14 min 20 s,no change,14,37,36
+262,Granada,14 min 20 s,no change,25,44,36
+263,Odense,14 min 10 s,no change,22,39,37
+264,Lille,14 min 10 s,+ 20 s,24,47,34
+265,Portland,14 min 10 s,+ 30 s,32,55,35
+266,Gold Coast,14 min 10 s,no change,29,44,37
+267,Bratislava,14 min 10 s,+ 20 s,30,51,34
+268,Eindhoven,14 min,+ 20 s,30,48,36
+269,Groningen,14 min,no change,26,39,39
+270,Al Ain,14 min,- 10 s,13,22,42
+271,Braga,14 min,+ 20 s,25,51,34
+272,Karlsruhe,14 min,- 30 s,21,35,38
+273,Den Bosch,13 min 50 s,+ 10 s,25,41,37
+274,San Sebastian,13 min 50 s,- 10 s,17,21,41
+275,Kosice,13 min 50 s,+ 10 s,31,46,36
+276,Bruges,13 min 50 s,- 10 s,24,35,38
+277,Bilbao,13 min 50 s,- 10 s,16,22,41
+278,Cadiz,13 min 50 s,no change,11,22,41
+279,Bari,13 min 50 s,+ 10 s,31,46,38
+280,McAllen,13 min 50 s,+ 20 s,29,45,38
+281,Reykjavik,13 min 40 s,+ 10 s,23,54,34
+282,Katowice urban area,13 min 40 s,+ 10 s,26,39,38
+283,Gothenburg,13 min 40 s,no change,20,38,37
+284,Santa Cruz de Tenerife,13 min 40 s,+ 10 s,20,32,40
+285,Austin,13 min 40 s,+ 20 s,31,51,36
+286,Johannesburg,13 min 30 s,- 10 s,25,43,36
+287,Tucson,13 min 30 s,no change,25,33,40
+288,Rennes,13 min 30 s,no change,27,54,34
+289,Trondheim,13 min 30 s,- 10 s,13,29,40
+290,Charleston,13 min 20 s,+ 10 s,26,30,41
+291,Coimbra,13 min 20 s,+ 20 s,18,29,39
+292,Tauranga,13 min 20 s,+ 20 s,24,43,37
+293,Jeddah,13 min 20 s,- 20 s,24,40,40
+294,New Orleans,13 min 10 s,- 10 s,25,40,38
+295,Sharjah,13 min 10 s,+ 30 s,29,44,40
+296,Brasilia,13 min 10 s,+ 20 s,22,40,39
+297,Calgary,13 min,+ 20 s,22,36,40
+298,Wuppertal,13 min,+ 40 s,26,38,39
+299,Las Vegas,13 min,+ 20 s,25,32,41
+300,Reggio Emilia,13 min,+ 20 s,23,40,39
+301,Portsmouth,13 min,+ 20 s,31,41,39
+302,Saint-Etienne,13 min,- 10 s,21,36,39
+303,Fujairah,12 min 50 s,no change,7,12,46
+304,Padua,12 min 50 s,+ 20 s,23,42,38
+305,Providence,12 min 50 s,+ 10 s,26,41,39
+306,Zwolle,12 min 50 s,no change,27,40,40
+307,Dubai,12 min 50 s,+ 30 s,25,39,41
+308,Las Palmas,12 min 50 s,- 10 s,21,32,41
+309,Milwaukee,12 min 40 s,+ 30 s,18,32,41
+310,Santander,12 min 40 s,no change,19,26,44
+311,Cape Coral-Fort Myers,12 min 40 s,no change,28,34,43
+312,Houston,12 min 40 s,+ 20 s,34,58,37
+313,Parma,12 min 40 s,no change,20,30,42
+314,Brescia,12 min 40 s,+ 10 s,22,36,40
+315,Atlanta,12 min 40 s,no change,37,58,37
+316,Ravenna,12 min 40 s,+ 30 s,22,36,40
+317,Kuwait City,12 min 40 s,+ 10 s,25,33,43
+318,Bielsko-Biala,12 min 30 s,+ 30 s,24,37,41
+319,Minneapolis,12 min 30 s,+ 10 s,19,32,42
+320,Modena,12 min 30 s,+ 10 s,22,32,43
+321,Almere,12 min 30 s,+ 20 s,15,25,44
+322,Dammam,12 min 20 s,- 10 s,20,31,43
+323,Canberra,12 min 20 s,no change,21,32,42
+324,Quebec,12 min 20 s,+ 10 s,25,42,40
+325,Kitchener-Waterloo,12 min 20 s,+ 20 s,16,21,46
+326,Allentown,12 min 20 s,+ 10 s,20,27,44
+327,Doha,12 min 10 s,- 30 s,9,22,47
+328,Boise,12 min,no change,23,29,45
+329,Mecca,11 min 50 s,+ 40 s,10,11,49
+330,Charleroi,11 min 50 s,no change,15,23,46
+331,Tampa,11 min 50 s,+ 30 s,30,49,40
+332,Ruhr region east,11 min 40 s,+ 10 s,19,27,45
+333,Dallas-Fort Worth,11 min 40 s,+ 10 s,31,51,39
+334,Indianapolis,11 min 40 s,- 2 min 10 s,16,26,45
+335,Buffalo,11 min 40 s,no change,13,15,49
+336,Ostrava,11 min 40 s,- 10 s,22,26,46
+337,Greenville,11 min 30 s,no change,24,33,45
+338,Nashville,11 min 30 s,+ 20 s,31,43,43
+339,Worcester,11 min 30 s,no change,24,30,46
+340,New Haven,11 min 20 s,+ 10 s,22,30,46
+341,Middlesbrough,11 min 20 s,+ 10 s,23,29,46
+342,Medina,11 min 10 s,+ 10 s,12,14,52
+343,Memphis,11 min 10 s,no change,14,15,51
+344,Colorado Springs,11 min 10 s,+ 10 s,21,25,49
+345,San Jose,11 min,+ 40 s,30,46,42
+346,El Paso,11 min,+ 10 s,19,20,50
+347,Wollongong,11 min,+ 10 s,17,25,48
+348,Rochester,10 min 50 s,no change,14,16,53
+349,Oxnard-Thousand Oaks-Ventura,10 min 50 s,+ 10 s,28,32,48
+350,Richmond,10 min 40 s,+ 10 s,15,22,49
+351,Virginia Beach,10 min 40 s,+ 10 s,16,17,53
+352,Charlotte,10 min 40 s,+ 20 s,22,38,45
+353,Baton Rouge,10 min 40 s,- 10 s,28,36,47
+354,Bakersfield,10 min 30 s,no change,22,24,52
+355,Orlando,10 min 30 s,+ 10 s,22,30,48
+356,San Antonio,10 min 20 s,+ 10 s,18,29,48
+357,St. Louis,10 min 20 s,no change,14,15,55
+358,Little Rock,10 min 20 s,no change,15,17,53
+359,Taranto,10 min 20 s,+ 10 s,15,18,53
+360,Louisville,10 min 20 s,+ 10 s,15,16,54
+361,Cincinnati,10 min 20 s,no change,14,22,52
+362,Grand Rapids,10 min 20 s,- 10 s,15,17,53
+363,Kansas City,10 min 10 s,no change,14,17,54
+364,Columbus,10 min,no change,15,19,54
+365,Birmingham,10 min,no change,18,26,51
+366,Salt Lake City,10 min,+ 10 s,16,22,54
+367,Cleveland,9 min 50 s,+ 10 s,13,13,57
+368,Sacramento,9 min 50 s,+ 30 s,22,31,51
+369,Hartford,9 min 50 s,no change,18,25,52
+370,Omaha-Council Bluffs,9 min 40 s,- 10 s,10,11,60
+371,Albuquerque,9 min 40 s,no change,18,23,54
+372,Tulsa,9 min 40 s,+ 10 s,12,13,58
+373,Greensboro-High Point,9 min 40 s,no change,12,13,59
+374,Riverside,9 min 40 s,+ 20 s,34,40,50
+375,Winston-Salem,9 min 30 s,- 10 s,14,16,58
+376,Raleigh,9 min 30 s,+ 10 s,15,22,55
+377,Akron,9 min 30 s,- 20 s,9,10,60
+378,Phoenix,9 min 30 s,+ 10 s,23,34,50
+379,Jacksonville,9 min 20 s,no change,16,24,54
+380,Fresno,9 min 20 s,+ 10 s,19,22,57
+381,Syracuse,9 min 10 s,no change,11,11,63
+382,Detroit,9 min 10 s,no change,13,17,59
+383,Dayton,9 min 10 s,+ 10 s,9,12,61
+384,Albany,9 min 10 s,no change,12,12,60
+385,San Diego,9 min,+ 20 s,23,30,54
+386,Knoxville,8 min 50 s,+ 10 s,15,18,60
+387,Oklahoma City,8 min 40 s,no change,14,19,61
